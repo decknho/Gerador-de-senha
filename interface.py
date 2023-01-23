@@ -1,8 +1,9 @@
 def senhas():
     from caracteres import caractere
     from random import randint
-    quantidade = int(input('Quantas senhas você quer? '))
-    tamanho = int(input('Quantos caracteres você quer para sua senhas? '))
+    quantidade = int(input('Quantas senhas você quer?\n-> '))
+    tamanho = int(input('Quantos caracteres você quer para sua senhas?\n-> '))
+    print('-' * 45)
     print()
     cont = 1
     print('-=' * 5, 'Senhas geradas', '=-' * 5)
