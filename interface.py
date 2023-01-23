@@ -13,3 +13,5 @@ def senhas():
             print(f'\033[34m{caractere[randint(0, 72)]}', end='')
         print('\033[m')
         quantidade -= 1
+    print('-=' * 18)
+    print()
