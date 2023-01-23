@@ -5,3 +5,5 @@
 .idea/misc.xml
 .idea/inspectionProfiles/Project_Default.xml
 .idea/inspectionProfiles/profiles_settings.xml
+__pycache__/caracteres.cpython-310.pyc
+__pycache__/interface.cpython-310.pyc
